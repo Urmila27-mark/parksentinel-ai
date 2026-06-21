@@ -503,4 +503,3 @@ with tab_demo:
             st.text(line)
 
 st.markdown("---")
-st.caption("ParkSentinel AI · Theme 1 · Sofia (Urmila), IIIT Kota · CYPH3R / Void Walkers")
