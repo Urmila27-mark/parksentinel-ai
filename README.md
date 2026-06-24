@@ -1,6 +1,6 @@
 # ParkSentinel AI — Theme 1: Parking-Induced Congestion
 
-Bangalore Traffic Police Hackathon · Team CYPH3R / Void Walkers · Sofia (Urmila), IIIT Kota
+Flipkart Gridlock 2.0: Team SoloRider (Urmila)
 
 A working prototype for AI-driven parking intelligence: detecting illegal-parking
 hotspots and quantifying their impact on traffic flow, using the official BTP
